@@ -1,25 +1,35 @@
-# 📧 Smart Email Assistant (GenAI-Powered)
+# 📧 Smart Email Assistant – AI-Powered Email Generator, Summarizer & Rewriter
 
-A GenAI tool that helps you write, summarize, and rewrite emails using **Google Gemini** and **Streamlit**.
+An intelligent GenAI-powered web app that helps you **generate**, **summarize**, and **rewrite professional emails** using Google's **Gemini (LLM)** API and a simple **Streamlit** interface.
 
-## ✨ Features
+---
 
-- 🧠 Generate emails from prompts
-- 📄 Summarize long email threads
-- 🔁 Rewrite emails in different tones (formal, concise, friendly, etc.)
+## 💡 Features
 
-## 🧪 Technologies
+| Feature             | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| ✍️ Email Generator   | Converts natural-language prompts into full, professional emails           |
+| 📄 Email Summarizer  | Summarizes long emails or threads into bullet-point takeaways              |
+| 🔁 Tone Rewriter     | Rewrites emails in your chosen tone: formal, friendly, assertive, etc.     |
+| 🧠 Powered by GenAI  | Uses Google's **Gemini 1.5 Flash** model for high-speed, contextual output |
 
-- Python, Streamlit
-- Google Gemini (gemini-1.5-flash)
-- Prompt Engineering, LLMs
+---
 
-## 🔧 Setup
+## 📽️ Demo
 
-```bash
-git clone https://github.com/yourusername/Smart_Email_Assistant.git
-cd Smart_Email_Assistant
-python -m venv venv
-venv\Scripts\activate  # or source venv/bin/activate
-pip install -r requirements.txt
-```
+**Coming soon!**  
+(Include a GIF or Loom video link here for bonus GitHub appeal!)
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 **Python**
+- 🎈 **Streamlit** – UI framework
+- 🧠 **Google Gemini (Generative AI)**
+- 🔐 `secrets.toml` for secure API key storage
+
+---
+
+## 📂 Project Structure
+
